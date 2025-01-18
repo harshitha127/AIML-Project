@@ -1,0 +1,31 @@
+pandas
+numpy
+pyxlsb
+openpyxl
+
+
+pandas:
+For data manipulation and processing.
+Install via:
+pip install pandas
+
+numpy:
+For numerical operations and handling missing values.
+Install via:
+pip install numpy
+
+File Handling
+pyxlsb:
+For reading .xlsb (Excel Binary Workbook) files.
+Install via:
+pip install pyxlsb
+
+openpyxl (optional):
+For reading and writing .xlsx files if needed.
+Install via:
+pip install openpyxl
+
+Google Colab Specific
+google.colab:
+Pre-installed in Google Colab for Drive integration.
+Used to access files stored on Google Drive.
